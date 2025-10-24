@@ -4,7 +4,7 @@ I am a third-year Applied Computer Science student at Wrocław University of Sci
 
 - 🌱 I'm currently expanding my skills in Java, Python, and web development.
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
